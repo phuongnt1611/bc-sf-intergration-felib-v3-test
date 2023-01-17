@@ -29,7 +29,7 @@ public class User_03_Page_Object {
 		driver.get("https://demo.nopcommerce.com/");
 		
 		homePage = new HomePageObject(driver);
-		registerPage = new RegisterPageObject(driver);
+		
 		
 		emailAddress = "phuong" + generateFakeNumber() + "@email.com";
 		firstName = "Automation";
@@ -43,6 +43,8 @@ public class User_03_Page_Object {
 
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
+		
+		registerPage = new RegisterPageObject(driver);
 		
 		System.out.println("RegisterPage - Step 02: Click to Register button");
 		registerPage.clickToRegisterButton();
@@ -63,6 +65,8 @@ public class User_03_Page_Object {
 		
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
+		
+		registerPage = new RegisterPageObject(driver);
 		
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -91,6 +95,8 @@ public class User_03_Page_Object {
 	public void TC_03_Register_Sucess() {
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
+		
+		registerPage = new RegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -106,7 +112,7 @@ public class User_03_Page_Object {
 		Assert.assertEquals(registerPage.getRegisterSuccessMessage(), "Your registration completed");
 		
 		System.out.println("Register Page - Step 05: Click to logout link");
-		registerPage.clickToLogoutLink();;
+		registerPage.clickToLogoutLink();
 
 //		waitForElementClickable(driver, "//a[@class='ico-logout']");
 //		clickToElement(driver, "//a[@class='ico-logout']");
@@ -116,6 +122,8 @@ public class User_03_Page_Object {
 	public void TC_04_Register_Existing_Email() {
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
+		
+		registerPage = new RegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -136,6 +144,8 @@ public class User_03_Page_Object {
 	public void TC_05_Register_Password_Less_Than_6_Chars() {
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
+		
+		registerPage = new RegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -156,6 +166,8 @@ public class User_03_Page_Object {
 	public void TC_06_Register_Invalid_Confirm_PassWord() {
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
+		
+		registerPage = new RegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
