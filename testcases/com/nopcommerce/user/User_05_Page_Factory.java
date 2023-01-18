@@ -1,21 +1,20 @@
 package com.nopcommerce.user;
 
 import java.util.Random;
-import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import commons.BaseTest;
-import pageObject.HomePageObject;
-import pageObject.LoginPageObject;
-import pageObject.RegisterPageObject;
+import pageFactory.HomePageObject;
+import pageFactory.LoginPageObject;
+import pageFactory.RegisterPageObject;
 
-public class User_04_Login {
+public class User_05_Page_Factory extends BaseTest {
 	WebDriver driver;
 	private HomePageObject homePage;
 	private LoginPageObject loginPageObject;
@@ -26,19 +25,14 @@ public class User_04_Login {
 
 	String projectPath = System.getProperty("user.dir");
 	String osName = System.getProperty("os.name");
-
+	
+	@Parameters("browser")
 	@BeforeClass
-	public void beforeClass() {
-		if (osName.contains("Windows")) {
-			System.setProperty("webdriver.gecko.driver", projectPath + "\\browserDrivers\\geckodriver.exe");
-		} else {
-			System.setProperty("webdriver.gecko.driver", projectPath + "/browserDrivers/geckodriver");
-		}
-		driver = new FirefoxDriver();
-		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		driver.get("https://demo.nopcommerce.com/");
+	public void beforeClass(String browserName) {
 		
+		driver = getBrowserDriver(browserName);
 		homePage = new HomePageObject(driver);
+		
 //		loginPageObject = new LoginPageObject(driver);
 //		registerPage = new RegisterPageObject(driver);
 
