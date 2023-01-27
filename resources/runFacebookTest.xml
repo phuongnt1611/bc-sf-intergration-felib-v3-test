@@ -5,19 +5,19 @@
         <listener class-name="commons.MethodListener"/>
     </listeners>
 
- <parameter name = "environment" value ="STAGING"/>
+<parameter name = "url" value ="http://www.facebook.com/"/>
  
   <test name="Run on Firefox">
   <parameter name = "browser" value ="firefox"/>
     <classes>
-      <class name="com.nopcommerce.user.User_12_Assert_Verify"/>
+      <class name="com.facebook.register.Level_13_Element_Undisplayed"/>
     </classes>
   </test> <!-- Test -->
   
    <test name="Run on Chrome">
   <parameter name = "browser" value ="chrome"/>
     <classes>
-      <class name="com.nopcommerce.user.User_12_Assert_Verify"/>
+      <class name="com.facebook.register.Level_13_Element_Undisplayed"/>
     </classes>
   </test> <!-- Test -->
   

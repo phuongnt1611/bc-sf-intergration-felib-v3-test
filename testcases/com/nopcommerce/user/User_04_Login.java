@@ -11,15 +11,15 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import commons.BaseTest;
-import pageObject.HomePageObject;
-import pageObject.LoginPageObject;
-import pageObject.RegisterPageObject;
+import pageObject.nopCommerce.user.UserHomePageObject;
+import pageObject.nopCommerce.user.UserLoginPageObject;
+import pageObject.nopCommerce.user.UserRegisterPageObject;
 
 public class User_04_Login {
 	WebDriver driver;
-	private HomePageObject homePage;
-	private LoginPageObject loginPageObject;
-	private RegisterPageObject registerPage;
+	private UserHomePageObject homePage;
+	private UserLoginPageObject loginPageObject;
+	private UserRegisterPageObject registerPage;
 	
 	private String firstName, lastName, existingEmail, invalidEmail, notFoundEmail;
 	private String password, incorrectPassword;
@@ -38,7 +38,7 @@ public class User_04_Login {
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.get("https://demo.nopcommerce.com/");
 		
-		homePage = new HomePageObject(driver);
+		homePage = new UserHomePageObject(driver);
 //		loginPageObject = new LoginPageObject(driver);
 //		registerPage = new RegisterPageObject(driver);
 
@@ -54,7 +54,7 @@ public class User_04_Login {
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
 		
-		registerPage = new RegisterPageObject(driver);
+		registerPage = new UserRegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -72,7 +72,7 @@ public class User_04_Login {
 		System.out.println("Register Page - Step 05: Click to logout link");
 		registerPage.clickToLoginLink();
 		
-		homePage = new HomePageObject(driver);
+		homePage = new UserHomePageObject(driver);
 		
 
 	}
@@ -83,7 +83,7 @@ public class User_04_Login {
 		System.out.println("Login_01 - Step 01: Click to Login link");
 		homePage.clickToLoginLink();
 		
-		loginPageObject = new LoginPageObject(driver);
+		loginPageObject = new UserLoginPageObject(driver);
 		
 		System.out.println("Login_01 - Step 02: Click to Login button");
 		loginPageObject.clickToLoginButton();
@@ -97,7 +97,7 @@ public class User_04_Login {
 		System.out.println("Login_02 - Step 01: Click to Login link");
 		homePage.clickToLoginLink();
 		
-		loginPageObject = new LoginPageObject(driver);
+		loginPageObject = new UserLoginPageObject(driver);
 		
 		System.out.println("Login_02 - Step 02: Input invalid email to email field");
 		loginPageObject.inputToEmailTextbox(invalidEmail);
@@ -114,7 +114,7 @@ public class User_04_Login {
 		System.out.println(" Login_03 - Step 01: Click to Login link");
 		homePage.clickToLoginLink();
 		
-		loginPageObject = new LoginPageObject(driver);
+		loginPageObject = new UserLoginPageObject(driver);
 
 		System.out.println(" Login_03 - Step 02: Input a not existing email to email textbox");
 		loginPageObject.inputToEmailTextbox(notFoundEmail);
@@ -135,7 +135,7 @@ public class User_04_Login {
 		System.out.println(" Login_04 - Step 01: Click to Login link");
 		homePage.clickToLoginLink();
 		
-		loginPageObject = new LoginPageObject(driver);
+		loginPageObject = new UserLoginPageObject(driver);
 		
 		System.out.println(" Login_04 - Step 02: Input a existing email to email textbox");
 		loginPageObject.inputToEmailTextbox(existingEmail);
@@ -159,7 +159,7 @@ public class User_04_Login {
 		System.out.println(" Login_05 - Step 01: Click to Login link");
 		homePage.clickToLoginLink();
 		
-		loginPageObject = new LoginPageObject(driver);
+		loginPageObject = new UserLoginPageObject(driver);
 		
 		System.out.println(" Login_05 - Step 02: Input a existing email to email textbox");
 		loginPageObject.inputToEmailTextbox(existingEmail);
@@ -185,7 +185,7 @@ public class User_04_Login {
 		System.out.println(" Login_06 - Step 01: Click to Login link");
 		homePage.clickToLoginLink();
 		
-		loginPageObject = new LoginPageObject(driver);
+		loginPageObject = new UserLoginPageObject(driver);
 		
 		System.out.println(" Login_06 - Step 02: Input a existing email to email textbox");
 		loginPageObject.inputToEmailTextbox(existingEmail);
@@ -200,7 +200,7 @@ public class User_04_Login {
 
 		loginPageObject.clickToLoginButton();
 		
-		homePage = new HomePageObject(driver);
+		homePage = new UserHomePageObject(driver);
 		
 		System.out.println(" Login_06 - Step 04: Verify error message displayed");
 		Assert.assertTrue(homePage.isMyAccountLinkDisplayed());

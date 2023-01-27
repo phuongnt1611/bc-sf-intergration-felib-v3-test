@@ -10,14 +10,14 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import commons.BaseTest;
-import pageObject.HomePageObject;
-import pageObject.RegisterPageObject;
+import pageObject.nopCommerce.user.UserHomePageObject;
+import pageObject.nopCommerce.user.UserRegisterPageObject;
 
 public class User_03_Page_Object_Multiple_Browser extends BaseTest{
 	WebDriver driver;
 	private String firstName, lastName, emailAddress, password;
-	private HomePageObject homePage;
-	private RegisterPageObject registerPage;
+	private UserHomePageObject homePage;
+	private UserRegisterPageObject registerPage;
 
 
 	@Parameters("browser")
@@ -26,7 +26,7 @@ public class User_03_Page_Object_Multiple_Browser extends BaseTest{
 		// Gọi đến cái khởi tạo browser tương ứng với browser name trong file xml
 		// Gán driver trong class BaseTest vào driver của testcase này
 		driver = getBrowserDriver(browserName);
-		homePage = new HomePageObject(driver);
+		homePage = new UserHomePageObject(driver);
 
 		emailAddress = "phuong" + generateFakeNumber() + "@email.com";
 		firstName = "Automation";
@@ -41,7 +41,7 @@ public class User_03_Page_Object_Multiple_Browser extends BaseTest{
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
 
-		registerPage = new RegisterPageObject(driver);
+		registerPage = new UserRegisterPageObject(driver);
 
 		System.out.println("RegisterPage - Step 02: Click to Register button");
 		registerPage.clickToRegisterButton();
@@ -63,7 +63,7 @@ public class User_03_Page_Object_Multiple_Browser extends BaseTest{
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
 
-		registerPage = new RegisterPageObject(driver);
+		registerPage = new UserRegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -93,7 +93,7 @@ public class User_03_Page_Object_Multiple_Browser extends BaseTest{
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
 
-		registerPage = new RegisterPageObject(driver);
+		registerPage = new UserRegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -120,7 +120,7 @@ public class User_03_Page_Object_Multiple_Browser extends BaseTest{
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
 
-		registerPage = new RegisterPageObject(driver);
+		registerPage = new UserRegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -141,7 +141,7 @@ public class User_03_Page_Object_Multiple_Browser extends BaseTest{
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
 
-		registerPage = new RegisterPageObject(driver);
+		registerPage = new UserRegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
@@ -163,7 +163,7 @@ public class User_03_Page_Object_Multiple_Browser extends BaseTest{
 		System.out.println("Homepage - Step 01: Click to Register link");
 		homePage.clickToRegisterLink();
 
-		registerPage = new RegisterPageObject(driver);
+		registerPage = new UserRegisterPageObject(driver);
 
 		System.out.println("Register Page - Step 02: Input to required fields");
 		registerPage.inputToFirstnameTextbox(firstName);
