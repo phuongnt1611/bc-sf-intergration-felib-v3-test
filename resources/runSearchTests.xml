@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="BoostCommerce">
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="reportConfig.ExtentTestListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	
+	<parameter name="environment" value="staging" />
+	<test name="Run on Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+	        <class name="boostcommerce.integration.search.Search_01_InstantSearchWidget_Enable_DisplaySettings" />	
+			<class name="boostcommerce.integration.search.Search_02_InstantSearchWidget_Disable_DisplaySettings" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

@@ -1,0 +1,731 @@
+[2023-02-01 02:01:16,940] |AbstractTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 02:01:24,246] ===== END TESTING ======
+[2023-02-01 02:01:24,247] Close browser and driver
+[2023-02-01 09:33:44,299] |AbstractTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 09:33:48,567] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 09:33:48,571] |Login to Front end store|: Step 5: Navigate to front end store
+[2023-02-01 09:33:54,323] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 09:40:06,917] |AbstractTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 09:40:09,892] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 09:40:09,896] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 09:40:14,831] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 09:40:17,999] |AbstractTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 09:40:46,287] |AbstractTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 09:41:05,518] ===== END TESTING ======
+[2023-02-01 09:41:05,518] Close browser and driver
+[2023-02-01 09:47:26,054] |AbstractTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 09:49:27,500] |AbstractTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 09:49:30,787] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 09:49:30,791] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 09:49:37,872] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 09:49:41,018] |AbstractTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 09:50:05,987] ===== END TESTING ======
+[2023-02-01 09:50:05,988] Close browser and driver
+[2023-02-01 10:52:53,817] |AbstractTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 10:52:57,461] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 10:52:57,474] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 10:53:02,475] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 10:53:05,610] |AbstractTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 10:53:38,466] |AbstractTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 10:53:55,652] ===== END TESTING ======
+[2023-02-01 10:53:55,653] Close browser and driver
+[2023-02-01 11:02:20,067] |AbstractTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:02:23,281] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:02:23,291] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:02:28,463] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:02:31,634] |AbstractTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:03:02,514] |AbstractTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 11:03:18,931] ===== END TESTING ======
+[2023-02-01 11:03:18,932] Close browser and driver
+[2023-02-01 11:05:21,527] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:05:24,776] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:05:24,782] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:05:30,075] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:05:33,234] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:06:21,541] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 11:06:40,497] ===== END TESTING ======
+[2023-02-01 11:06:40,497] Close browser and driver
+[2023-02-01 11:12:23,441] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:12:27,529] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:12:27,542] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:12:33,561] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:12:36,704] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:13:13,310] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 11:13:23,311] ===== END TESTING ======
+[2023-02-01 11:13:23,311] Close browser and driver
+[2023-02-01 11:16:02,027] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:16:05,472] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:16:05,476] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:16:11,614] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:16:14,782] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:16:38,231] ===== END TESTING ======
+[2023-02-01 11:16:38,231] Close browser and driver
+[2023-02-01 11:36:13,899] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:36:17,347] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:36:17,351] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:36:23,220] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:36:26,371] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:36:29,709] ===== END TESTING ======
+[2023-02-01 11:36:29,709] Close browser and driver
+[2023-02-01 11:39:03,289] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:39:07,019] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:39:07,026] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:39:12,767] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:39:15,918] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:39:34,196] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 11:39:37,590] ===== END TESTING ======
+[2023-02-01 11:39:37,591] Close browser and driver
+[2023-02-01 11:44:04,357] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:44:07,757] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:44:07,762] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:44:13,809] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:44:16,963] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:44:35,336] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 11:44:38,689] ===== END TESTING ======
+[2023-02-01 11:44:38,690] Close browser and driver
+[2023-02-01 11:48:38,052] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:48:41,398] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:48:41,402] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:48:50,629] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:48:53,791] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:49:12,831] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 11:49:16,155] ===== END TESTING ======
+[2023-02-01 11:49:16,155] Close browser and driver
+[2023-02-01 11:56:35,419] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 11:56:39,495] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 11:56:39,507] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 11:56:47,701] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 11:56:50,854] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 11:57:00,905] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 11:57:04,269] ===== END TESTING ======
+[2023-02-01 11:57:04,269] Close browser and driver
+[2023-02-01 12:01:23,541] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 12:01:26,816] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 12:01:26,820] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 12:01:32,872] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 12:01:36,031] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 12:01:44,900] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 12:01:48,199] ===== END TESTING ======
+[2023-02-01 12:01:48,199] Close browser and driver
+[2023-02-01 12:02:29,515] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 12:02:32,892] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 12:02:32,896] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 12:02:39,966] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 12:02:43,110] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 12:02:51,562] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 12:02:54,843] ===== END TESTING ======
+[2023-02-01 12:02:54,843] Close browser and driver
+[2023-02-01 14:00:22,350] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 14:00:26,595] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 14:00:26,607] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 14:00:32,916] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 14:00:36,060] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 14:00:47,912] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 14:00:51,251] ===== END TESTING ======
+[2023-02-01 14:00:51,251] Close browser and driver
+[2023-02-01 14:02:06,138] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 14:02:09,483] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 14:02:09,491] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 14:02:15,367] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 14:02:18,530] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 14:02:30,533] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 14:02:33,887] ===== END TESTING ======
+[2023-02-01 14:02:33,887] Close browser and driver
+[2023-02-01 14:03:11,292] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 14:03:15,381] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 14:03:15,385] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 14:03:21,028] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 14:03:24,183] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 14:03:36,214] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 14:03:39,534] ===== END TESTING ======
+[2023-02-01 14:03:39,534] Close browser and driver
+[2023-02-01 14:09:13,862] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 14:09:17,313] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 14:09:17,316] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 14:09:22,931] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 14:09:26,100] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 14:09:38,863] ===== END TESTING ======
+[2023-02-01 14:09:38,863] Close browser and driver
+[2023-02-01 14:31:21,888] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 14:31:25,361] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 14:31:25,376] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 14:31:31,141] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 14:31:34,296] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 14:32:04,448] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 14:32:07,796] ===== END TESTING ======
+[2023-02-01 14:32:07,796] Close browser and driver
+[2023-02-01 14:34:06,837] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 14:34:10,249] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 14:34:10,257] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 14:34:16,924] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 14:34:20,080] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 14:34:43,380] ===== END TESTING ======
+[2023-02-01 14:34:43,381] Close browser and driver
+[2023-02-01 14:43:28,703] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 14:43:32,093] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 14:43:32,097] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 14:43:38,338] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 14:43:41,497] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 14:44:05,179] ===== END TESTING ======
+[2023-02-01 14:44:05,179] Close browser and driver
+[2023-02-01 14:50:19,446] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 14:50:22,710] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 14:50:22,714] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 14:50:28,277] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 14:50:31,429] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 14:50:54,662] ===== END TESTING ======
+[2023-02-01 14:50:54,662] Close browser and driver
+[2023-02-01 23:03:26,186] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 23:03:31,687] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 23:03:31,691] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 23:03:38,746] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 23:03:42,118] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 23:04:12,698] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 23:04:30,995] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 23:04:49,408] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 23:05:12,516] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 23:05:32,584] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 23:05:36,327] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 23:05:36,332] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 23:05:42,018] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 23:05:45,205] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 23:10:23,549] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 23:10:27,127] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 23:10:27,132] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 23:10:32,976] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 23:10:36,137] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 23:12:55,106] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 23:12:58,791] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 23:12:58,796] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 23:13:04,901] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 23:13:08,088] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-01 23:13:42,513] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-01 23:17:18,555] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-01 23:17:22,127] |Open Front end store|: Step 5: Open front end store
+[2023-02-01 23:17:22,132] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-01 23:17:27,872] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-01 23:17:31,051] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 00:03:54,276] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 00:03:58,546] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 00:03:58,551] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 00:04:05,364] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 00:04:08,532] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 00:05:20,025] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 00:05:23,786] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 00:05:23,791] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 00:05:30,208] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 00:05:33,396] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 00:06:22,904] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 00:06:26,467] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 00:06:26,471] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 00:06:32,275] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 00:06:35,450] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 00:07:06,440] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 00:07:09,936] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 00:07:09,940] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 00:07:15,890] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 00:07:19,060] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 00:16:32,820] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 00:16:36,259] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 00:16:36,263] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 00:16:42,045] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 00:16:45,228] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 00:17:17,517] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 00:19:20,533] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 00:19:24,147] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 00:19:24,152] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 00:19:30,774] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 00:19:33,964] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 09:49:54,017] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 09:49:58,156] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 09:49:58,160] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 09:50:05,669] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 09:50:08,816] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 09:51:22,521] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 09:52:10,024] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 09:53:13,599] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 09:59:44,854] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 09:59:48,683] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 09:59:48,686] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 09:59:54,550] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 09:59:57,725] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 10:00:01,322] ===== END TESTING ======
+[2023-02-02 10:00:01,322] Close browser and driver
+[2023-02-02 10:03:24,669] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 10:03:28,052] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 10:03:28,056] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 10:03:34,965] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 10:03:38,130] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 10:03:41,450] ===== END TESTING ======
+[2023-02-02 10:03:41,450] Close browser and driver
+[2023-02-02 10:05:54,939] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 10:05:58,334] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 10:05:58,340] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 10:06:04,138] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 10:06:07,291] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 10:06:10,612] ===== END TESTING ======
+[2023-02-02 10:06:10,612] Close browser and driver
+[2023-02-02 10:08:10,270] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 10:08:13,681] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 10:08:13,685] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 10:08:19,329] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 10:08:22,483] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 10:08:49,695] ===== END TESTING ======
+[2023-02-02 10:08:49,699] Close browser and driver
+[2023-02-02 10:10:45,502] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 10:10:49,655] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 10:10:49,663] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 10:10:55,596] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 10:10:58,799] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 10:12:15,033] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:13:02,477] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:13:11,482] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:13:14,865] ===== END TESTING ======
+[2023-02-02 10:13:14,865] Close browser and driver
+[2023-02-02 10:13:54,549] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 10:13:58,073] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 10:13:58,087] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 10:14:03,821] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 10:14:07,004] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 10:14:38,600] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:14:56,408] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:15:14,887] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:15:18,190] ===== END TESTING ======
+[2023-02-02 10:15:18,190] Close browser and driver
+[2023-02-02 10:21:42,786] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 10:21:46,120] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 10:21:46,124] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 10:21:52,025] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 10:21:55,198] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 10:25:11,971] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:25:59,430] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:26:08,311] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:26:11,594] ===== END TESTING ======
+[2023-02-02 10:26:11,594] Close browser and driver
+[2023-02-02 10:47:23,120] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 10:47:26,616] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 10:47:26,630] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 10:47:32,549] Go to home page
+[2023-02-02 10:47:32,549] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 10:47:35,712] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 10:49:46,720] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:51:54,218] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 10:53:30,057] ===== END TESTING ======
+[2023-02-02 10:53:30,058] Close browser and driver
+[2023-02-02 11:20:35,399] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 11:20:39,668] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 11:20:39,672] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 11:20:45,785] Go to home page
+[2023-02-02 11:20:45,785] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 11:20:48,934] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 11:23:23,434] ===== END TESTING ======
+[2023-02-02 11:23:23,434] Close browser and driver
+[2023-02-02 11:26:51,714] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 11:26:55,116] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 11:26:55,120] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 11:27:00,810] Go to home page
+[2023-02-02 11:27:00,810] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 11:27:03,968] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 11:29:06,736] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:29:54,351] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:30:42,092] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:30:45,327] ===== END TESTING ======
+[2023-02-02 11:30:45,327] Close browser and driver
+[2023-02-02 11:39:36,926] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 11:39:40,484] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 11:39:40,488] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 11:39:46,345] Go to home page
+[2023-02-02 11:39:46,345] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 11:39:49,500] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 11:40:25,597] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:40:55,516] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:43:54,082] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:44:41,524] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:45:29,382] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:45:32,696] ===== END TESTING ======
+[2023-02-02 11:45:32,696] Close browser and driver
+[2023-02-02 11:51:36,577] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 11:51:39,976] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 11:51:39,980] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 11:51:45,763] Go to home page
+[2023-02-02 11:51:45,763] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 11:51:48,926] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 11:54:25,104] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 11:57:01,794] ===== END TESTING ======
+[2023-02-02 11:57:01,794] Close browser and driver
+[2023-02-02 12:11:04,918] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 12:11:09,157] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 12:11:09,161] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 12:11:14,878] Go to home page
+[2023-02-02 12:11:14,878] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 12:11:18,051] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 12:13:52,860] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 12:16:29,374] ===== END TESTING ======
+[2023-02-02 12:16:29,374] Close browser and driver
+[2023-02-02 12:20:34,521] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 12:20:38,197] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 12:20:38,201] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 12:20:45,267] Go to home page
+[2023-02-02 12:20:45,267] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 12:20:48,436] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 12:25:37,352] ===== END TESTING ======
+[2023-02-02 12:25:37,353] Close browser and driver
+[2023-02-02 14:11:50,340] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 14:11:54,598] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 14:11:58,352] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 14:11:58,356] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 14:12:04,367] Navigate to home page
+[2023-02-02 14:12:04,367] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 14:12:07,526] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 14:13:43,992] ===== END TESTING ======
+[2023-02-02 14:13:43,992] Close browser and driver
+[2023-02-02 14:21:13,953] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 14:21:17,490] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 14:21:20,958] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 14:21:20,962] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 14:21:26,993] Navigate to home page
+[2023-02-02 14:21:26,993] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 14:21:30,150] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 14:22:56,750] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 14:24:08,394] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 14:24:11,930] ===== END TESTING ======
+[2023-02-02 14:24:11,930] Close browser and driver
+[2023-02-02 14:25:56,493] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 14:26:00,488] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 14:26:04,240] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 14:26:04,245] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 14:26:11,731] Navigate to home page
+[2023-02-02 14:26:11,731] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 14:26:14,893] |BaseTest| - |checkEquals| - Error while assert equal null
+[2023-02-02 14:26:50,311] ===== END TESTING ======
+[2023-02-02 14:26:50,312] Close browser and driver
+[2023-02-02 14:54:49,901] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 14:54:53,650] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 14:54:57,044] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 14:54:57,048] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 14:55:03,082] Navigate to home page
+[2023-02-02 14:55:03,082] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 14:56:29,429] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 14:56:32,708] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 14:56:36,082] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 14:56:36,097] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 14:56:42,497] Navigate to home page
+[2023-02-02 14:56:42,497] |Login to Front end store|: Step 5: Verify login successfully
+[2023-02-02 14:57:24,351] ===== END TESTING ======
+[2023-02-02 14:57:24,352] Close browser and driver
+[2023-02-02 15:58:02,304] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 15:59:05,713] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 15:59:09,657] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 15:59:09,661] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 15:59:15,551] Navigate to home page
+[2023-02-02 15:59:37,484] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 15:59:48,087] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 15:59:58,609] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:00:09,200] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:00:19,774] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:02:47,190] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 16:03:50,355] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 16:03:53,760] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 16:03:53,764] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 16:03:59,358] Navigate to home page
+[2023-02-02 16:04:21,274] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:04:31,834] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:04:42,280] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:08:03,617] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 16:09:07,593] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 16:09:11,080] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 16:09:11,090] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 16:09:17,523] Navigate to home page
+[2023-02-02 16:09:39,214] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:09:49,841] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:10:00,391] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:13:43,533] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 16:13:47,199] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 16:13:50,548] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 16:13:50,552] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 16:13:56,455] Navigate to home page
+[2023-02-02 16:14:38,281] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:15:55,122] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 16:16:58,196] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 16:17:04,693] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:17:15,128] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:17:25,453] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:31:26,355] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 16:31:29,648] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 16:31:34,241] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 16:31:34,253] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 16:31:40,342] Navigate to home page
+[2023-02-02 16:32:22,488] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:32:32,957] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:32:43,217] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:32:53,596] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:33:03,850] |BaseTest| - |checkEquals| - Error while assert equal expected [bc-dev-v2-norah-03] but found [Search – bc-dev-v2-norah-03]
+[2023-02-02 16:33:10,446] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 16:33:13,688] ===== END TESTING ======
+[2023-02-02 16:33:13,688] Close browser and driver
+[2023-02-02 16:36:30,357] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 16:36:33,883] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 16:36:37,362] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 16:36:37,366] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 16:36:43,841] Navigate to home page
+[2023-02-02 16:37:40,121] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-02 16:37:43,436] ===== END TESTING ======
+[2023-02-02 16:37:43,436] Close browser and driver
+[2023-02-02 19:49:39,778] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 19:49:39,782] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 19:52:16,028] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 19:52:16,029] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 19:53:04,476] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 19:53:04,477] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 19:53:31,986] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 19:53:31,987] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 19:53:34,090] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 19:53:39,095] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 19:53:39,100] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 19:55:25,982] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 19:55:25,982] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 19:55:28,543] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 19:55:32,091] |Open Front end store|: Step 5: Open front end store
+[2023-02-02 19:55:32,095] |Login to Front end store|: Step 5: Input password and enter
+[2023-02-02 19:55:38,361] Navigate to home page
+[2023-02-02 20:50:41,533] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 20:50:41,534] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 20:50:44,779] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 20:52:42,134] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 20:52:42,135] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 20:52:45,669] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 20:55:02,290] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 20:55:02,291] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 20:55:05,054] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 20:56:17,489] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 20:56:17,490] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 20:56:19,839] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 21:10:48,474] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 21:10:48,475] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 21:11:00,097] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 21:15:54,842] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 21:15:54,843] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 21:15:59,679] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 21:16:55,536] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 21:16:55,537] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 21:16:58,385] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 21:35:52,723] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 21:35:52,724] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 21:35:55,398] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 21:37:26,017] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 21:37:26,018] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 21:37:30,462] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-02 21:37:54,478] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-02 21:37:54,478] |Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-02 21:37:56,560] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 09:34:55,372] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 09:34:55,373] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 09:37:31,189] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 09:37:31,190] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 09:43:41,566] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 09:43:41,568] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 09:43:45,194] Precondition- Step 2: Open front end store
+[2023-02-03 09:43:45,195] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 09:43:50,387] Precondition - Step 3: Input password and enter
+[2023-02-03 09:43:58,498] Precondition - Step 4: Navigate to home page
+[2023-02-03 09:43:58,498] Precondition - Step 5: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 09:43:59,968] Precondition- Step 6: Wait 1m for updating all display settings
+[2023-02-03 09:45:57,549] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 09:46:00,923] ===== END TESTING ======
+[2023-02-03 09:46:00,924] Close browser and driver
+[2023-02-03 10:03:09,617] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 10:03:09,618] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 10:03:13,624] Precondition- Step 2: Open front end store
+[2023-02-03 10:03:13,625] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 10:03:16,892] Precondition - Step 3: Input password and enter
+[2023-02-03 10:03:22,341] Precondition - Step 4: Navigate to home page
+[2023-02-03 10:03:22,341] Precondition - Step 5: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 10:03:22,362] Precondition- Step 6: Wait 1m for updating all display settings
+[2023-02-03 10:05:18,511] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 10:05:22,000] ===== END TESTING ======
+[2023-02-03 10:05:22,001] Close browser and driver
+[2023-02-03 10:11:14,603] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 10:11:14,604] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 10:11:18,329] Precondition- Step 2: Open front end store
+[2023-02-03 10:11:18,331] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 10:11:22,576] Precondition - Step 3: Input password and enter
+[2023-02-03 10:11:28,535] Precondition - Step 4: Navigate to home page
+[2023-02-03 10:11:28,535] Precondition - Step 5: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 10:11:28,557] Precondition- Step 6: Wait 1m for updating all display settings
+[2023-02-03 10:13:25,378] ===== END TESTING ======
+[2023-02-03 10:13:25,378] Close browser and driver
+[2023-02-03 11:04:38,308] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 11:04:38,309] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 11:04:42,091] Precondition- Step 2: Open front end store
+[2023-02-03 11:04:42,092] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 11:04:45,922] Precondition - Step 3: Input password and enter
+[2023-02-03 11:04:53,999] Precondition - Step 4: Navigate to home page
+[2023-02-03 11:04:53,999] Precondition - Step 5: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 11:04:55,695] Precondition- Step 6: Wait 1m for updating all display settings
+[2023-02-03 11:06:59,553] ===== END TESTING ======
+[2023-02-03 11:06:59,553] Close browser and driver
+[2023-02-03 11:07:56,982] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 11:07:56,984] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 11:08:00,816] Precondition- Step 2: Open front end store
+[2023-02-03 11:08:00,819] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 11:08:04,696] Precondition - Step 3: Input password and enter
+[2023-02-03 11:08:11,693] Precondition - Step 4: Navigate to home page
+[2023-02-03 11:08:11,693] Precondition - Step 5: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 11:08:13,219] Precondition- Step 6: Wait 1m for updating all display settings
+[2023-02-03 11:10:25,436] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:10:33,547] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:11:03,899] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:12:07,029] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:12:24,277] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:13:23,122] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 11:13:23,123] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 11:13:26,472] Precondition- Step 2: Open front end store
+[2023-02-03 11:13:26,473] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 11:13:29,855] Precondition - Step 3: Input password and enter
+[2023-02-03 11:13:36,268] Precondition - Step 4: Navigate to home page
+[2023-02-03 11:13:36,268] Precondition - Step 5: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 11:13:36,290] Precondition- Step 6: Wait 2m for updating all display settings
+[2023-02-03 11:14:53,387] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:18:04,659] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 11:18:04,660] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 11:18:08,090] Precondition- Step 2: Open front end store
+[2023-02-03 11:18:08,091] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 11:18:11,398] Precondition - Step 3: Input password and enter
+[2023-02-03 11:18:17,399] Precondition - Step 4: Navigate to home page
+[2023-02-03 11:18:17,399] Precondition - Step 5: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 11:18:17,423] Precondition- Step 6: Wait 2m for updating all display settings
+[2023-02-03 11:20:53,078] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:21:11,269] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:22:14,340] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 11:22:34,375] ===== END TESTING ======
+[2023-02-03 11:22:34,375] Close browser and driver
+[2023-02-03 11:22:34,378] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 11:22:34,378] Precondition - Step 1- Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 12:28:44,319] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 12:28:44,320] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings'
+[2023-02-03 12:28:48,240] Precondition- Step 2: Open front end store
+[2023-02-03 12:28:48,241] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 12:28:52,032] Precondition - Step 3: Input password and enter
+[2023-02-03 12:28:58,139] Precondition - Step 4: Navigate to home page
+[2023-02-03 12:28:58,139] Precondition - Step 5: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 12:28:59,461] Precondition- Step 6: Wait 2m for updating all display settings
+[2023-02-03 12:31:34,897] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 12:31:52,342] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 12:32:55,501] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 12:34:20,092] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 12:34:44,387] ===== END TESTING ======
+[2023-02-03 12:34:44,387] Close browser and driver
+[2023-02-03 13:50:06,751] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 13:50:06,752] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings
+[2023-02-03 13:50:10,201] Precondition- Step 2: Open front end store
+[2023-02-03 13:50:10,202] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 13:50:14,087] Precondition - Step 3: Input password and enter
+[2023-02-03 13:50:20,462] Precondition - Step 4: Navigate to home page
+[2023-02-03 13:50:20,462] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 13:52:20,464] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 13:53:56,889] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 13:54:14,481] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 13:55:17,594] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 13:56:02,907] ===== END TESTING ======
+[2023-02-03 13:56:02,907] Close browser and driver
+[2023-02-03 13:56:02,910] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 13:56:02,910] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:02:10,461] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:02:10,462] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:02:41,142] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:02:41,144] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:08:22,603] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:08:22,607] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:08:38,914] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:08:38,915] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:09:10,126] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:09:10,127] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:09:38,776] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:09:38,777] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:11:04,381] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:11:04,381] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:11:08,330] Precondition - Step 2: Open front end store
+[2023-02-03 14:11:08,333] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 14:11:11,957] Precondition - Step 3: Input password and enter
+[2023-02-03 14:11:19,019] Precondition - Step 4: Navigate to homepage
+[2023-02-03 14:11:19,019] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 14:13:19,030] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 14:13:26,311] |BaseTest| - |checkFailed| - Error while assert false expected [false] but found [true]
+[2023-02-03 14:19:04,707] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 14:22:26,998] |BaseTest| - |checkFailed| - Error while assert false expected [false] but found [true]
+[2023-02-03 14:26:04,899] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 14:26:11,778] ===== END TESTING ======
+[2023-02-03 14:26:11,778] Close browser and driver
+[2023-02-03 14:39:49,998] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:39:49,998] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings
+[2023-02-03 14:39:53,450] Precondition- Step 2: Open front end store
+[2023-02-03 14:39:53,453] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 14:39:56,699] Precondition - Step 3: Input password and enter
+[2023-02-03 14:40:02,903] Precondition - Step 4: Navigate to home page
+[2023-02-03 14:40:02,903] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 14:42:02,906] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 14:43:40,076] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 14:43:57,461] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 14:45:00,559] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 14:46:11,048] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 14:46:50,254] ===== END TESTING ======
+[2023-02-03 14:46:50,254] Close browser and driver
+[2023-02-03 14:46:50,257] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 14:46:50,257] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 14:46:53,276] Precondition - Step 2: Open front end store
+[2023-02-03 14:46:53,276] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 14:46:55,880] Precondition - Step 3: Input password and enter
+[2023-02-03 14:47:02,877] Precondition - Step 4: Navigate to homepage
+[2023-02-03 14:47:02,877] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 14:49:02,890] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 14:58:59,741] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 15:06:52,084] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 15:06:57,795] ===== END TESTING ======
+[2023-02-03 15:06:57,795] Close browser and driver
+[2023-02-03 15:43:09,049] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 15:43:09,050] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings
+[2023-02-03 15:43:13,015] Precondition- Step 2: Open front end store
+[2023-02-03 15:43:13,020] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 15:43:16,846] Precondition - Step 3: Input password and enter
+[2023-02-03 15:43:23,935] Precondition - Step 4: Navigate to home page
+[2023-02-03 15:43:23,935] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 15:45:23,940] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 15:46:43,544] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 15:47:00,780] ===== END TESTING ======
+[2023-02-03 15:47:00,780] Close browser and driver
+[2023-02-03 15:47:01,580] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 15:47:01,581] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 15:47:04,626] Precondition - Step 2: Open front end store
+[2023-02-03 15:47:04,626] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 15:47:07,470] Precondition - Step 3: Input password and enter
+[2023-02-03 15:47:13,082] Precondition - Step 4: Navigate to homepage
+[2023-02-03 15:47:13,082] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 15:49:13,097] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 15:49:20,294] |BaseTest| - |checkFailed| - Error while assert false expected [false] but found [true]
+[2023-02-03 16:04:36,443] |BaseTest| - |checkFailed| - Error while assert false expected [false] but found [true]
+[2023-02-03 16:07:45,899] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 16:08:10,120] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 16:08:13,240] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 16:08:19,018] ===== END TESTING ======
+[2023-02-03 16:08:19,018] Close browser and driver
+[2023-02-03 16:50:18,226] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 16:50:18,227] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings
+[2023-02-03 16:50:22,382] Precondition- Step 2: Open front end store
+[2023-02-03 16:50:22,383] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 16:50:26,119] Precondition - Step 3: Input password and enter
+[2023-02-03 16:50:33,001] Precondition - Step 4: Navigate to home page
+[2023-02-03 16:50:33,001] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 16:52:33,006] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 16:54:06,810] ===== END TESTING ======
+[2023-02-03 16:54:06,810] Close browser and driver
+[2023-02-03 16:54:07,624] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 16:54:07,625] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 16:54:10,623] Precondition - Step 2: Open front end store
+[2023-02-03 16:54:10,623] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 16:54:13,588] Precondition - Step 3: Input password and enter
+[2023-02-03 16:54:21,078] Precondition - Step 4: Navigate to homepage
+[2023-02-03 16:54:21,078] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 16:56:21,082] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 17:12:50,595] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 17:17:07,991] ===== END TESTING ======
+[2023-02-03 17:17:07,991] Close browser and driver

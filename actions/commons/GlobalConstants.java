@@ -13,7 +13,8 @@ public class GlobalConstants {
 	public static final String UPLOAD_FILE = PROJECT_PATH + File.separator + "uploadFiles";
 	public static final String DOWLOAD_FILE = PROJECT_PATH + File.separator + "dowloadFiles";
 	public static final String BROWSER_LOG = PROJECT_PATH + File.separator + "browserLogs";
-
+	public static final String REPORTNG_SCREENSHOT = PROJECT_PATH + File.separator + "ReportNGScreenShots"+ File.separator ;
+	public static final String EXTENT_PATH = PROJECT_PATH + File.separator + "ExtentReportV2" +  File.separator;
 	// Database account/ user/ pass/ port
 	public static final String DB_DEV_URL = "";
 	public static final String DB_DEV_USERNAME = "";
@@ -22,6 +23,10 @@ public class GlobalConstants {
 	public static final long SHORT_TIMEOUT = 5;
 	public static final long LONG_TIMEOUT = 10;
 	public static final long RETRY_TEST_FAILD = 3;
+	
+	// Java version
+	public static final String JAVA_VERSION = System.getProperty("java.version");
+	
 	
 	
 }

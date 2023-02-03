@@ -1,0 +1,157 @@
+{
+	"Search_01": {
+		"beforeClass": {
+			"search": { 
+				"enableSuggestion": true,
+				"productAvailable": false,
+                "showSuggestionProductImage": true,
+                "showSuggestionProductPrice": true,
+                "showSuggestionProductSalePrice": true,
+                "showSuggestionProductSku": true,
+                "showSuggestionProductVendor": true,
+                "suggestionBlocks": [
+                    {
+                        "type": "suggestions",
+                        "label": "Popular suggestions",
+                        "status": "active",
+                        "number": 3
+                    },
+                    {
+                        "type": "collections",
+                        "label": "Collections",
+                        "status": "active",
+                        "number": 3
+                    },
+                    {
+                        "type": "products",
+                        "label": "Products",
+                        "status": "active",
+                        "number": 6
+                    },
+                    {
+                        "type": "pages",
+                        "label": "Blog & Pages",
+                        "status": "active",
+                        "number": 3
+                    }
+                ]
+			}
+		}
+		},
+	"Search_02": {
+			"beforeClass": {
+				"search": { 
+					"enableSuggestion": true,
+					"productAvailable": true,
+	                "showSuggestionProductImage": false,
+	                "showSuggestionProductPrice": false,
+	                "showSuggestionProductSalePrice": false,
+	                "showSuggestionProductSku": false,
+	                "showSuggestionProductVendor": false,
+	                "suggestionBlocks": [
+	                    {
+	                        "type": "suggestions",
+	                        "label": "Popular suggestions",
+	                        "status": "active",
+	                        "number": 3
+	                    },
+	                    {
+	                        "type": "collections",
+	                        "label": "Collections",
+	                        "status": "active",
+	                        "number": 3
+	                    },
+	                    {
+	                        "type": "products",
+	                        "label": "Products",
+	                        "status": "active",
+	                        "number": 6
+	                    },
+	                    {
+	                        "type": "pages",
+	                        "label": "Blog & Pages",
+	                        "status": "active",
+	                        "number": 3
+	                    }
+	                ]
+				}
+			},
+			"ISW_018":{ 
+				"search": { 
+				    "enableSuggestion": true,
+					"productAvailable": true,
+	                "showSuggestionProductImage": false,
+	                "showSuggestionProductPrice": false,
+	                "showSuggestionProductSalePrice": false,
+	                "showSuggestionProductSku": false,
+	                "showSuggestionProductVendor": false,
+	                "suggestionBlocks": [
+	                    {
+	                        "type": "suggestions",
+	                        "label": "Popular suggestions",
+	                        "status": "disabled",
+	                        "number": 3
+	                    },
+	                    {
+	                        "type": "collections",
+	                        "label": "Collections",
+	                        "status": "disabled",
+	                        "number": 3
+	                    },
+	                    {
+	                        "type": "products",
+	                        "label": "Products",
+	                        "status": "active",
+	                        "number": 6
+	                    },
+	                    {
+	                        "type": "pages",
+	                        "label": "Blog & Pages",
+	                        "status": "disabled",
+	                        "number": 3
+	                    }
+	                ]
+				}
+			},
+			"ISW_021":{ 
+			"search": { 
+				    "enableSuggestion": true,
+					"productAvailable": true,
+	                "showSuggestionProductImage": false,
+	                "showSuggestionProductPrice": false,
+	                "showSuggestionProductSalePrice": false,
+	                "showSuggestionProductSku": false,
+	                "showSuggestionProductVendor": false,
+	                "suggestionBlocks": [
+	                    {
+	                        "type": "suggestions",
+	                        "label": "Popular suggestions",
+	                        "status": "disabled",
+	                        "number": 3
+	                    },
+	                    {
+	                        "type": "collections",
+	                        "label": "Collections",
+	                        "status": "disabled",
+	                        "number": 3
+	                    },
+	                    {
+	                        "type": "products",
+	                        "label": "Products",
+	                        "status": "disabled",
+	                        "number": 6
+	                    },
+	                    {
+	                        "type": "pages",
+	                        "label": "Blog & Pages",
+	                        "status": "disabled",
+	                        "number": 3
+	                    }
+	                ]
+				}
+			},
+			"ISW_022":{ 
+				"enableSuggestion": false
+			}
+		}
+}

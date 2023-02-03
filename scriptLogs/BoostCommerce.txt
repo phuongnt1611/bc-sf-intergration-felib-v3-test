@@ -1,0 +1,21 @@
+[2023-02-03 16:50:18,226] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 16:50:18,227] Precondition - Step 1: Call admin setting's API in order to enable all `Instant search widget/Display Settings
+[2023-02-03 16:50:22,382] Precondition- Step 2: Open front end store
+[2023-02-03 16:50:22,383] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 16:50:26,119] Precondition - Step 3: Input password and enter
+[2023-02-03 16:50:33,001] Precondition - Step 4: Navigate to home page
+[2023-02-03 16:50:33,001] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 16:52:33,006] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 16:54:06,810] ===== END TESTING ======
+[2023-02-03 16:54:06,810] Close browser and driver
+[2023-02-03 16:54:07,624] ===== START TESTING ===TC: Search_01_InstantSearchWidget_Enable_DisplaySettings ======
+[2023-02-03 16:54:07,625] Precondition - Step 1- Call admin setting's API in order to disable all `Instant search widget/Display Settings/ Product suggestion display'
+[2023-02-03 16:54:10,623] Precondition - Step 2: Open front end store
+[2023-02-03 16:54:10,623] |BaseTest| - |openBrowserDriver|: Open browser and driver
+[2023-02-03 16:54:13,588] Precondition - Step 3: Input password and enter
+[2023-02-03 16:54:21,078] Precondition - Step 4: Navigate to homepage
+[2023-02-03 16:54:21,078] Precondition- Step 5: Wait 2m for updating all display settings
+[2023-02-03 16:56:21,082] Precondition - Step 6: Refresh home page to wait all display settings are updated on FE store
+[2023-02-03 17:12:50,595] |BaseTest| - |checkTrue| - Error while assert true expected [true] but found [false]
+[2023-02-03 17:17:07,991] ===== END TESTING ======
+[2023-02-03 17:17:07,991] Close browser and driver
